@@ -21,7 +21,7 @@ final class TestCustomAdminCard {
 		} );
 	}
 
-	public static function pocSummaryCard(): void
+	public static function testCardTemplate(): void
 	{
 		$dateFrom = '';
 		$dateTo = '';
